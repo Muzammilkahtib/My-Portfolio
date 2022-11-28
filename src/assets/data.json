@@ -1,0 +1,73 @@
+
+
+
+{
+  "projects": [
+    {
+      "date": "07/08/2022",
+      "title": "DRUM-KIT ",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://muzammilkahtib.github.io/Drumkit/",
+      "imgSrc": "https://tse2.mm.bing.net/th?id=OIP.vnkiKtcqBE1GJEFJkd6G6wHaE1&pid=Api&P=0"
+    },
+    {
+      "date": "20/08/2022",
+      "title": "SIMON ",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://muzammilkahtib.github.io/Simon-Game/",
+      "imgSrc": "https://image.yaksgames.com/v2/game/6/b/f/3NDy5Cu7BbkonVEFAjSdLqdEUL6YQBdPLfNfSDaN.jpeg"
+    },
+    {
+      "date": "02/09/2022",
+      "title": "TIN DOG ",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://muzammilkahtib.github.io/Tindog/",
+      "imgSrc": "https://repository-images.githubusercontent.com/229127946/6a827980-3e21-11ea-9de1-bb8861b18b8e"
+    },
+    {
+      "date": "07/10/2022",
+      "title": "TECHFIZZ",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://reactfirstproject-phi.vercel.app",
+      "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+    },
+
+    {
+      "date": "11/10/2022",
+      "title": "VIDEO HUB",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://react-video-app-wine.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+    },
+    {
+      "date": "25/10/2022",
+      "title": "TODO LIST",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://calm-badlands-90892.herokuapp.com/",
+      "imgSrc": "https://cdn.dribbble.com/users/2459619/screenshots/5019211/snip20180823_1.png"
+    },
+
+    {
+      "date": "10/11/2022",
+      "title": "XCRYPTO",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://react-crypto-app-mu.vercel.app/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+    },
+
+    {
+      "date": "15/11/2022",
+      "title": "REACT CART",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://react-cart-eosin.vercel.app",
+      "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+    },
+    {
+      "date": "20/11/2022",
+      "title": "PORTFOLIO",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+    }
+  ]
+}
