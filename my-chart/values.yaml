@@ -1,0 +1,8 @@
+replicaCount: 2
+image:
+  repository: myportfolio
+  tag: latest
+
+service:
+  port: 8888
+  
